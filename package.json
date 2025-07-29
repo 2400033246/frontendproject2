@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://2400033246.github.io/frontendproject2"
+  "homepage": "https://2400033246.github.io/frontendproject2"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
